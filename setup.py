@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pytimecode',
-      version='1.0',
+      version='1.1',
       description='Python Timecode Utilities',
       author='Joshua Banton',
       author_email='',
